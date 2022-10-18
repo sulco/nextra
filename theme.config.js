@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/sulco/nextra',
-  docsRepositoryBase: 'https://github.com/sulco/nextra/blob/master',
+  docsRepositoryBase: 'https://github.com/sulco/nextra/blob/main',
   titleSuffix: ' – Nextra',
   logo: (
     <>
