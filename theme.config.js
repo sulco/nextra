@@ -25,6 +25,7 @@ export default {
       <meta name="og:title" content="Nextra: Next.js static site generator" />
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <title>Nextra – Nextra</title>
       <link
         rel="apple-touch-icon"
         sizes="180x180"
